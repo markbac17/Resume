@@ -3,14 +3,14 @@
 [linkedin.com/in/mark-bachurski-a148383]
 [www.bachurski.info]
 
-##Summary
+## Summary
 Highly motivated, self-starter that provides solutions to challenges. Ability to provide tools and procedures to the airport
 community to enhance performance as well as increase revenue.
 
-##Experience
-###Airport Transformation, Manager Americas & Asia Pacific
-###British Airways
-###Mar 2014- Present
+## Experience
+### Airport Transformation, Manager Americas & Asia Pacific
+### British Airways
+### Mar 2014- Present
 
 * Supported trials of Biometric Boarding throughout the US including LAX, MCO and Boston. MCO became he full implementation of biometric boarding in the US as part of the Customs & Border Protection Entry/ xit program.
 * Championed the use of SharePoint throughout the region to create individual sites for all airports. Delivered regional SLA reporting including forms and analytical reports for Safety teams, Airport Managers and hird-party ground handling companies.
@@ -23,9 +23,9 @@ community to enhance performance as well as increase revenue.
 * Efficiently implemented FLY FM to all 57 airports as the initial phase of the Travel Programme.
 * Worked with training to deliver iLoad Telex and iLoad Direct to 57 airports and ground handling companies.
 
-###Manager, Airport Process Solutions
-###British Airways
-###Apr 2001 - May 2014
+### Manager, Airport Process Solutions
+### British Airways
+### Apr 2001 - May 2014
 
 * Represented the Americas region as Business Implementation Manager for the Travel Programme. This included active participation in monthly meetings and workshops and providing input on the requirements for the region.
 * Managed and delivered the successful cutover of the first initiative of the Travel Programme, FICO Switch for the Americas region by communicating requirements to the FM project team and timelines and contingency procedures to the airport champions. This included an effective communication program
@@ -35,9 +35,9 @@ consisting of workshops and management presentations.
 * Provided input in the creation of the Brilliant Briefing Boards. This included creating the Think Customer and Performance reporting slides to inform the airport staff on BA targets.
 * Supported Americas operational teams during disruptions (weather, strike, ash) as well as provide updates to the Leadership team by providing schedules, compensation figures, update on high priority passengers and baggage status.
 
-###Developer, Airport Systems
-###British Airways
-###Apr 1995 - Apr 2001
+### Developer, Airport Systems
+### British Airways
+### Apr 1995 - Apr 2001
 
 * Introduced and developed systems and enhancements to increase revenue and enhance customer service including automated paid upgrades at check-in, Symbol hand-held baggage scanners at airport baggage offices, FedEx integration during disruptions, enhanced PRS ticketing/reservations functionality,TSA Watch-list applications used by Customer Service and Corporate Security.
 *  Provided ad-hoc Customer Service reports to the Americas Leadership team including Think Customer summaries for the Brilliant Briefing board, paid upgrade revenue reports, disruption costs within aggressive timelines.
@@ -51,12 +51,12 @@ Harmonized and implemented Customer Service and Commercial policies such as Inte
 *  Supported implementation of PRS Worldtracer, electronic BDOs and baggage scanners to all airports in North America. North America is recognized as a leader in baggage process and technology within BA and one of the first airlines to introduce scanners in the baggage recovery process.
 *  Introduced Intelligent Gate Readers (IGR) to all airports in North America.
 
-##Education
+## Education
 
-###Stony Brook University
-###Bachelor of Science - BS, Economics 1990 - 1994
-###Farmingdale State College
-###Associate's degree, Business Administration and Management, General 1985 - 1988
+### Stony Brook University
+### Bachelor of Science - BS, Economics 1990 - 1994
+### Farmingdale State College
+### Associate's degree, Business Administration and Management, General 1985 - 1988
 
 ## Skills
 * Python (Programming Language)
