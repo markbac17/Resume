@@ -1,6 +1,8 @@
 # Mark Bachurski
 [mark.bachurski@me.com]
+
 [linkedin.com/in/mark-bachurski-a148383]
+
 [www.bachurski.info]
 
 ## Summary
@@ -25,6 +27,7 @@ Mar 2014- Present
 
 ### Manager, Airport Process Solutions
 British Airways
+
 Apr 2001 - May 2014
 
 * Represented the Americas region as Business Implementation Manager for the Travel Programme. This included active participation in monthly meetings and workshops and providing input on the requirements for the region.
@@ -54,11 +57,13 @@ Harmonized and implemented Customer Service and Commercial policies such as Inte
 ## Education
 
 ### Stony Brook University
+
 Bachelor of Science - BS, Economics 1990 - 1994
 Farmingdale State College
 Associate's degree, Business Administration and Management, General 1985 - 1988
 
 ## Skills
+
 * Python (Programming Language)
 * Linux System Administration 
 *  Visual Studio
