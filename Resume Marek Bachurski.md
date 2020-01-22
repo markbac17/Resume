@@ -59,5 +59,9 @@ Farmingdale State College
 Associate's degree, Business Administration and Management, General 1985 - 1988
 
 Skills
-Python (Programming Language) • Linux System Administration • Visual Studio • Microsoft Excel •
-SharePoint Designer • iOS Development
+Python (Programming Language)
+Linux System Administration 
+Visual Studio
+Microsoft Excel
+SharePoint Designer
+iOS Development
