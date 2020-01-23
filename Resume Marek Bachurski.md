@@ -18,7 +18,7 @@ Mar 2014- Present
 * Championed the use of SharePoint throughout the region to create individual sites for all airports. Delivered regional SLA reporting including forms and analytical reports for Safety teams, Airport Managers and hird-party ground handling companies.
 * Delivered mobile platform at 57 airports as a member of the Mobile Operations group, including, customer Recognition), operations (FlightReact, BagReport, BagScan) as well as 30 other internal BA apps that nhanced the travel experience.
 * Delivered over 450 iPads to the airport teams including aircraft loaders, managers, Special Service teams, urnround coordinators in order to provide an enhanced level of customer service and efficiency.
-* Supported the delivery of the Mercury Programme as a Super Hero in NAmAsPac which provided a eplacement of Lotus Notes with new tools such as SharePoint, Outlook, Office 365 and Yammer. This ncluded creating and maintaining several SharePoint sites as a SharePoint administrator.
+* Supported the delivery of the Mercury Programme as a Super Hero in NAmAsPac which provided a eplacement of Lotus Notes with new tools such as SharePoint, Outlook, Office 365 and Yammer. This included creating and maintaining several SharePoint sites as a SharePoint administrator.
 * Created and implemented the Disruption Checklist for 57 airports using iAuditor on the iPad that allows the management and reporting of airport disruption and tarmac delays.
 * Communicated and supported the implementation of new ticketing functionality including EMD, airport upsell, paid seating and denied boarding compensation through PRS that impacted revenue generation at the airports
 * Provided training and support for over 70 members of the NYC CRT to ensure readiness for disruption.
