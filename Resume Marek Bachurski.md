@@ -66,7 +66,8 @@ Associate's degree, Business Administration and Management, General 1985 - 1988
 
 * Python (Programming Language)
 * Linux System Administration 
-*  Visual Studio
-*  Microsoft Excel
-*  SharePoint Designer
-*  iOS Development
+* Visual Studio
+* Microsoft Excel
+* SharePoint Designer
+* iOS Development
+* Vue.js
